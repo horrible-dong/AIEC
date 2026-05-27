@@ -1,0 +1,14 @@
+numpy
+opencv-python
+packaging
+Pillow
+requests
+urllib3
+scikit-learn
+scipy
+termcolor
+timm>=0.9.1
+matplotlib
+seaborn
+pandas<1.4.0
+thop
