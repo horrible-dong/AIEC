@@ -8,7 +8,7 @@ Activation with Intrinsic-Extrinsic Consensus
 
 > Authors: Tian Qiu, Zunlei Feng, Yang Gao, Bingde Hu, Yi Gao, Mingli Song  
 > Affiliation: Zhejiang University  
-> Links: [[Paper]](https://openreview.net/pdf?id=vLTdrPGs3V) | [[Poster]](poster.pdf)
+> [[Paper]](https://openreview.net/pdf?id=vLTdrPGs3V) | [[Poster]](poster.pdf)
 
 ## Abstract
 
